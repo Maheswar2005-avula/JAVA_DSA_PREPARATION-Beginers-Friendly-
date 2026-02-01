@@ -1,3 +1,15 @@
+// Problem Statement (LeetCode 26 – Remove Duplicates from Sorted Array):
+
+// Given a sorted integer array nums, remove the duplicates in-place such that each unique element appears only once.
+
+// The relative order of the elements should be kept the same.
+
+// Return the number of unique elements.
+
+// Example:
+// Input: nums = [1,1,2]
+// Output: 2
+// Explanation: The first two elements of nums are 1 and 2.
 import java.util.Scanner;
 
 public class Remove_Duplicates_LEETCODE26 {
