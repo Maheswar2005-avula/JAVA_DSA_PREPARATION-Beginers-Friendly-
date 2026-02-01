@@ -9,5 +9,9 @@ public class PrefixSum {
         }
         System.out.println("A → " + Arrays.toString(A));
         System.out.println("P → " + Arrays.toString(P));
+        int left = 2;
+        int right = 5;
+        int rangesum = P[right]- P[left-1];
+        System.out.println(rangesum);
     }
 }
